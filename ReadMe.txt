@@ -1,2 +1,2 @@
-Html/css ve Bootstrap kullanılarak yapılan bir Cv 'dir.
+Html/css ve Bootstrap kullanılarak yapılan bir Cv sitesidir.
 
